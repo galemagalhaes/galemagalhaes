@@ -1,6 +1,7 @@
 ### Oie! 👋
 ## Bem-vindo(a), eu sou a Glau 😁
- <button><a href="#">Autoconhecimento</a></button>
+ <a href="#"><button>Autoconhecimento</button></a>
+ <a href="#"><button value="Autoconhecimento2"></button></a>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
